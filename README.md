@@ -1,7 +1,10 @@
 <h1 align="center">Arslan Naeem</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demojazzage.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=IT+Engineer+%7C+Cloud+%26+Infrastructure+Specialist;Network+%26+Security+Expert;VMware+ESXi+%7C+pfSense+%7C+Cisco;PowerShell+Automation" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/IT_Engineer-2F81F7?style=for-the-badge" alt="IT Engineer" />
+  <img src="https://img.shields.io/badge/Cloud_%26_Infrastructure-2F81F7?style=for-the-badge" alt="Cloud and Infrastructure" />
+  <img src="https://img.shields.io/badge/Network_%26_Security-2F81F7?style=for-the-badge" alt="Network and Security" />
+  <img src="https://img.shields.io/badge/PowerShell_Automation-2F81F7?style=for-the-badge" alt="PowerShell Automation" />
 </p>
 
 <p align="center">
